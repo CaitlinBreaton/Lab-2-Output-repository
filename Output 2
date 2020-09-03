@@ -1,0 +1,31 @@
+Lab 2, output reposatory:
+
+parsed genome node DAGs: 2
+sequence regions: 1 (total length: 11564)
+multi-features: 1
+genes: 1
+protein-coding genes: 1
+mRNAs: 1
+protein-coding mRNAs: 1
+exons: 16
+CDSs: 16
+introns: 15
+gene length distribution:
+11564: 1 (prob=1.0000,cumulative=1.0000)
+exon length distribution:
+42: 1 (prob=0.0625,cumulative=0.0625)
+48: 1 (prob=0.0625,cumulative=0.1250)
+60: 1 (prob=0.0625,cumulative=0.1875)
+94: 1 (prob=0.0625,cumulative=0.2500)
+102: 1 (prob=0.0625,cumulative=0.3125)
+103: 1 (prob=0.0625,cumulative=0.3750)
+104: 1 (prob=0.0625,cumulative=0.4375)
+118: 1 (prob=0.0625,cumulative=0.5000)
+128: 1 (prob=0.0625,cumulative=0.5625)
+149: 1 (prob=0.0625,cumulative=0.6250)
+191: 1 (prob=0.0625,cumulative=0.6875)
+257: 1 (prob=0.0625,cumulative=0.7500)
+334: 1 (prob=0.0625,cumulative=0.8125)
+404: 1 (prob=0.0625,cumulative=0.8750)
+426: 1 (prob=0.0625,cumulative=0.9375)
+497: 1 (prob=0.0625,cumulative=1.0000)
